@@ -34,5 +34,5 @@ int main() {
         if (input == 5) {
             h.print();
         }
-    }   
+    }
 }
